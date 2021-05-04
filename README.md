@@ -1,2 +1,3 @@
 testProjesi
 deneniyor
+part2
